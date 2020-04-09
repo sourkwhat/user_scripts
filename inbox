@@ -1,0 +1,3 @@
+#! /usr/bin/env bash
+
+nohup ~/AppImages/tutanota.AppImage >nohup.out 2>&1 &
